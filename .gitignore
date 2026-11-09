@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 构建与打包产物（只提交源码/文档）
+build/
+staging/
+dist/
+*.dmg
+*.app/
+*.iconset/
